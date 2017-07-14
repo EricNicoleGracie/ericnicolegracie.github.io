@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "FAQ"
-    url: ../index.html 
+    url: /faq 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
