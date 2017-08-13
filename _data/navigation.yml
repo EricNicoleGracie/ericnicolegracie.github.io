@@ -4,8 +4,8 @@ main:
     url: /rsvp 
   - title: "FAQ"
     url: /faq 
-   - title: "Story"
-     url: /story
+  - title: "Story"
+    url: /story
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
