@@ -80,8 +80,10 @@ analytics:
 author:
   name             : "March 31, 2018"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Golden Gardens"
   bio              : "8498 Seaview Pl NW"
-  location         : "Seattle, WA 98117"
+  bio              : "Seattle, WA 98117"
+  location         :
   email            : 
   uri              :
   bitbucket        :
